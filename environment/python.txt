@@ -1,4 +1,0 @@
-command: ['/home/son/mipa/poster_plus_plus/venv_poster/bin/python', '--version']
-exit_code: 0
-Python 3.10.20
-

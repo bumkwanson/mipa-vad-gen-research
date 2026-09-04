@@ -1,0 +1,23 @@
+# PyTorch는 README의 CUDA 12.8 명령으로 먼저 설치합니다.
+
+# 영상 및 랜드마크 처리
+numpy==1.26.4
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+Pillow==12.2.0
+
+# 음성 처리
+faster-whisper==1.2.1
+ctranslate2==4.8.1
+silero-vad==6.2.1
+soundfile==0.14.0
+
+# POSTER++
+timm==0.3.2
+einops==0.8.2
+thop==0.1.1.post2209072238
+
+# 화면해설 및 가중치 다운로드
+requests==2.34.2
+gdown==5.2.0
+tqdm==4.68.3
