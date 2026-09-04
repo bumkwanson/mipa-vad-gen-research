@@ -1,5 +1,0 @@
-command: ['/home/son/mipa/poster_plus_plus/venv_poster/bin/python', '-m', 'pip', 'check']
-exit_code: 1
-mediapipe 0.10.21 has requirement numpy<2, but you have numpy 2.2.6.
-
-WARNING: The directory '/home/son/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.

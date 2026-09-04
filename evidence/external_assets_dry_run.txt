@@ -1,3 +1,0 @@
-7252 files, 34,960,189,613 bytes
-Destination: /home/son/Documents/Codex/2026-09-04/github-readme-github/outputs/research_bundle/external_assets
-Dry run only. Add --copy to copy original assets. No files changed.
