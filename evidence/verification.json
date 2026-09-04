@@ -1,0 +1,9 @@
+{
+  "python_files": 53,
+  "syntax_errors": [],
+  "copied_files_checked": 95,
+  "copy_hash_mismatches": [],
+  "gpu_end_to_end": "not_run_driver_unavailable",
+  "fresh_install": "not_verified",
+  "existing_pip_check": "failed_mediapipe_numpy_constraint"
+}
